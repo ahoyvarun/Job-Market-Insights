@@ -1,0 +1,51 @@
+job_title,company,location,salary_estimate,description
+Product Manager,BizSoft,Munich,"€80,000–€110,000","Full-stack engineer with experience in JavaScript, React, and backend development."
+Software Engineer,InnovAI,Hamburg,"€70,000–€100,000","AI researcher with NLP, Python, and research background."
+Data Scientist,CodeBase,Frankfurt,"€70,000–€90,000","Looking for a data scientist skilled in Python, SQL, and machine learning."
+Data Analyst,DataFlow,Frankfurt,"€80,000–€110,000",Machine learning engineer with deep learning and TensorFlow experience.
+Data Scientist,DataFlow,Munich,"€65,000–€85,000",Business analyst with knowledge of market research and Excel.
+Machine Learning Engineer,DataGen,Frankfurt,"€70,000–€90,000",Business analyst with knowledge of market research and Excel.
+Data Analyst,AIWorks,Cologne,"€45,000–€60,000",Machine learning engineer with deep learning and TensorFlow experience.
+Software Engineer,AIWorks,Frankfurt,"€80,000–€110,000","Looking for a data scientist skilled in Python, SQL, and machine learning."
+AI Researcher,DataGen,Frankfurt,"€70,000–€100,000",Product manager with agile and stakeholder management skills.
+Data Analyst,ProdSuite,Hamburg,"€55,000–€75,000",Product manager with agile and stakeholder management skills.
+AI Researcher,CodeBase,Cologne,"€50,000–€65,000",Machine learning engineer with deep learning and TensorFlow experience.
+AI Researcher,InnovAI,Munich,"€70,000–€90,000","Seeking data analyst familiar with Excel, Power BI, and SQL."
+Product Manager,InnovAI,Frankfurt,"€70,000–€90,000",Product manager with agile and stakeholder management skills.
+Data Engineer,DataFlow,Cologne,"€70,000–€100,000","AI researcher with NLP, Python, and research background."
+Software Engineer,TechCorp,Munich,"€60,000–€80,000","Data engineer with big data, Spark, and Hadoop experience."
+Software Engineer,DataGen,Cologne,"€45,000–€60,000",Product manager with agile and stakeholder management skills.
+Data Engineer,DataGen,Cologne,"€55,000–€75,000","Seeking data analyst familiar with Excel, Power BI, and SQL."
+Data Scientist,DataGen,Frankfurt,"€60,000–€80,000",Machine learning engineer with deep learning and TensorFlow experience.
+Machine Learning Engineer,ProdSuite,Munich,"€80,000–€110,000",Business analyst with knowledge of market research and Excel.
+Machine Learning Engineer,InnovAI,Frankfurt,"€55,000–€75,000","Looking for a data scientist skilled in Python, SQL, and machine learning."
+Software Engineer,ProdSuite,Hamburg,"€70,000–€100,000",Business analyst with knowledge of market research and Excel.
+Data Analyst,TechCorp,Frankfurt,"€65,000–€85,000",Machine learning engineer with deep learning and TensorFlow experience.
+Machine Learning Engineer,TechCorp,Hamburg,"€65,000–€85,000","Data engineer with big data, Spark, and Hadoop experience."
+Software Engineer,AIWorks,Hamburg,"€45,000–€60,000",Machine learning engineer with deep learning and TensorFlow experience.
+Business Analyst,BizSoft,Cologne,"€70,000–€90,000","Looking for a data scientist skilled in Python, SQL, and machine learning."
+Machine Learning Engineer,ProdSuite,Cologne,"€80,000–€110,000","Full-stack engineer with experience in JavaScript, React, and backend development."
+Software Engineer,AIWorks,Cologne,"€80,000–€110,000","AI researcher with NLP, Python, and research background."
+AI Researcher,InnovAI,Cologne,"€70,000–€100,000","Data engineer with big data, Spark, and Hadoop experience."
+Product Manager,DataFlow,Frankfurt,"€60,000–€80,000","AI researcher with NLP, Python, and research background."
+Data Analyst,CodeBase,Frankfurt,"€50,000–€65,000","Looking for a data scientist skilled in Python, SQL, and machine learning."
+Machine Learning Engineer,BizSoft,Hamburg,"€55,000–€75,000",Product manager with agile and stakeholder management skills.
+Data Analyst,AIWorks,Munich,"€65,000–€85,000","Seeking data analyst familiar with Excel, Power BI, and SQL."
+Data Analyst,DataFlow,Berlin,"€65,000–€85,000","Looking for a data scientist skilled in Python, SQL, and machine learning."
+Product Manager,DataFlow,Berlin,"€55,000–€75,000",Business analyst with knowledge of market research and Excel.
+Data Scientist,InnovAI,Munich,"€55,000–€75,000","Seeking data analyst familiar with Excel, Power BI, and SQL."
+Machine Learning Engineer,DataFlow,Munich,"€80,000–€110,000","Data engineer with big data, Spark, and Hadoop experience."
+Software Engineer,DataGen,Berlin,"€80,000–€110,000","Data engineer with big data, Spark, and Hadoop experience."
+Data Analyst,CodeBase,Berlin,"€70,000–€90,000",Product manager with agile and stakeholder management skills.
+Data Engineer,DataFlow,Cologne,"€80,000–€110,000",Machine learning engineer with deep learning and TensorFlow experience.
+Data Engineer,ProdSuite,Hamburg,"€45,000–€60,000",Machine learning engineer with deep learning and TensorFlow experience.
+Data Engineer,ProdSuite,Munich,"€70,000–€100,000","Data engineer with big data, Spark, and Hadoop experience."
+Data Scientist,AIWorks,Berlin,"€60,000–€80,000",Business analyst with knowledge of market research and Excel.
+Product Manager,InnovAI,Berlin,"€65,000–€85,000",Business analyst with knowledge of market research and Excel.
+Business Analyst,DataFlow,Hamburg,"€70,000–€100,000","Looking for a data scientist skilled in Python, SQL, and machine learning."
+AI Researcher,ProdSuite,Berlin,"€50,000–€65,000","Looking for a data scientist skilled in Python, SQL, and machine learning."
+Machine Learning Engineer,DataFlow,Munich,"€80,000–€110,000",Business analyst with knowledge of market research and Excel.
+Business Analyst,AIWorks,Hamburg,"€70,000–€90,000","Seeking data analyst familiar with Excel, Power BI, and SQL."
+AI Researcher,InnovAI,Hamburg,"€55,000–€75,000","AI researcher with NLP, Python, and research background."
+Data Engineer,ProdSuite,Munich,"€70,000–€90,000",Business analyst with knowledge of market research and Excel.
+AI Researcher,AIWorks,Munich,"€50,000–€65,000","AI researcher with NLP, Python, and research background."
